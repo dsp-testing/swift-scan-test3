@@ -13,7 +13,7 @@ updates:
     cooldown:
       default-days: 90
       include:
-        - "vapor/vapor"
+        - "patrick-zippenfenig/SwiftTimeZoneLookup"
       exclude:
         - "patrick-zippenfenig/swifteccodes"
       #cooldown:
