@@ -11,7 +11,7 @@ updates:
     schedule:
       interval: "weekly"
     cooldown:
-      default-days: 190
+      default-days: 90
       include:
         - "patrick-zippenfenig/SwiftTimeZoneLookup"
       exclude:
