@@ -10,7 +10,9 @@ updates:
     schedule:
       interval: "weekly"
     cooldown:
-      default-days: 90
+      semver-major-days: 90
+      semver-minor-days: 90
+      semver-patch-days: 90
       include:
         - "patrick-zippenfenig/SwiftTimeZoneLookup"
       exclude:
